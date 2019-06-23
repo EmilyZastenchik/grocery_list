@@ -1,0 +1,30 @@
+White Rose Low Fat Yogurt
+item code = 0
+1.99
+Diamond Crystal Salt
+item code = 1
+.89
+Trend Detergent
+item code = 2
+1.49
+Bumble Bee Tuna
+item code = 3
+0.89
+Carmela Corned Beef
+item code = 4
+2.99
+Goya Olive Oil
+item code = 5
+4.99
+Friendly's Ice Cream
+item code = 6
+2.99
+Bird's Eye Mixed Vegetables
+item code = 7
+0.99
+Prego Pasta Sauce
+item code = 8
+1.79
+Nabisco Chips Ahoy!
+item code = 9
+1.99
